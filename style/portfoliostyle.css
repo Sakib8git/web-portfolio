@@ -236,3 +236,10 @@ hr{
     width: 150px;
     height: 64px;
 }
+
+.foot p{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 18px;
+    color: #757575;
+}
