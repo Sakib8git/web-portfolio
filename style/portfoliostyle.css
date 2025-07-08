@@ -44,7 +44,8 @@ main section{
     
 }
 .secondary-bg{
-    background-color: #F8F8F8;
+    /* background-color: #f8f8f8; */
+    background-color: #feec5f;
 }
 .text-center{
     text-align: center;
@@ -55,8 +56,8 @@ main section{
 .header{
     background-image: url("../img/developer.png"), url("../img/header_bg.png");
     background-repeat: no-repeat;
-    background-position: top left, bottom right;
-    
+    background-position: top left 20px, bottom right;
+
     /* background-size: contain; */
 }
 /* nav style */
@@ -203,6 +204,7 @@ hr{
     gap: 100px;
     justify-content: center;
     padding: 130px 230px;
+    margin-bottom: 20px;
 }
 .footer-column p{
     height: 56px;
